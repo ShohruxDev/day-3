@@ -1,0 +1,226 @@
+@media screen and (max-width: 600px){
+ .container{
+   padding: 40px 30px 0 30px;
+ } 
+ .hero-img{
+    display: none;
+ } 
+ .hero-b{
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+ } 
+ .logo{
+    width: 315px;
+height: 122px;
+
+
+ }
+ .langs{
+   right: 110px;
+ }
+ .langs li{
+margin-left: 84px;
+margin-top: -5px;
+ }
+ .Chitat{
+   display: flex;
+   flex-direction: column;
+   gap: 12px;
+ }
+ .chit{
+    display: flex;
+    
+    flex-direction: column;
+ }
+ .chitt{
+    display: grid;
+    grid-template-columns: auto;
+ }
+ .chit-11{
+    width: 94%;
+ }
+ .chit-1{
+    width: 94%;
+    height: 55vh;
+ }
+ .chit-2 b{
+    font-size: 38px;
+ }
+ .chit-2 p{
+    font-size: 16px;
+ }
+ .chit-2 h2{
+    margin-top: 20px;
+ }
+ .samm{
+    margin-top: 60px;
+ }
+ .sam img{
+    width: 70%;
+ }
+ .sam p{
+    font-size: 16px;
+    width: 84%;
+ }
+ .sammm{
+    display: none;
+ }
+ .sam-2{
+  height: 200px; 
+  width: 244px; 
+ 
+ }
+ .sam-1{
+    height: 200px;
+  
+   margin-top: 1px;
+    gap: 40px;
+    width: 460px;
+    
+ }
+ .sam-3{
+    display: flex;
+    gap: 20px;
+    width: 92%;
+    margin-top: 35px;
+    flex-direction: column;
+ }
+ .kuhon{
+    display: grid;
+    width: 92%;
+    grid-template-columns: auto;
+ }
+ .kuh{
+  
+  width: 92%;
+  height: 400px;
+ }
+ 
+ .sam-4{
+    width:100%;
+ }
+ .sam-4 b{
+    font-size: 36px;
+ }
+ .sam-4 p{
+    font-size: 16px;
+ }
+ .mas{
+    margin-top: 40px;
+ }
+ .huk{
+    display: none;
+ }
+ footer{
+    flex-direction: column;
+    padding: 0 56px;
+    align-items: flex-start;
+ }
+ .fot{
+    
+    margin-top: 80px;
+ }
+ .fot-1{
+    flex-direction: column;
+    margin-top: 40px;
+ }
+ .fot-2{
+    width: 92%;
+  margin-left: -76px;
+    align-items: flex-start;
+ }
+ .fot-2 b{
+    font-size: 22px;
+ }
+ .fot-2 p{
+    font-size: 14px;
+    width: 80%;
+ }
+ .fot-2 h3{
+    font-size: 16px;
+ }
+ .info{
+    top: 100px;
+    left: -62px;
+ }
+ footer h6{
+    font-size: 14px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    margin-left: -14px;
+ }
+ .mas{
+   width: 92%;
+ }
+ .mass img{
+   width: 238.69px;
+height: 138.71px;
+top: 4098px;
+left: 589px;
+gap: 0px;
+opacity: 0px;
+
+ }
+ .circ img{
+   width: 208.69px;
+height: 138.71px;
+top: 4098px;
+left: 589px;
+gap: 0px;
+opacity: 0px;
+
+ }
+ .circ-1 img{
+   width: 43.3px;
+height: 43.3px;
+top: 47.93px;
+left: 47.93px;
+gap: 0px;
+opacity: 0px;
+margin-top: 64px;
+margin-left: 4px;
+ }
+ .products{
+   width: 92%;
+   
+   background-color: black;
+ }
+ .card{
+   width: 92%;
+ }
+ .card-2{
+   width: 92%;
+ }
+ .card-3{
+   width: 92%;
+ }
+ .card-4{
+   width: 92%;
+ }
+ .card img{
+   display: none;
+ }
+ .card-2 img{
+   display: none;
+ }
+ .card-3 img{
+   display: none;
+ }
+ .card-4 img{
+   display: none;
+ }
+ .fon{
+   left:36px;
+ }
+ .fon img{
+  width: 89%;
+
+ }
+ .nacc{
+  margin-top: 80px; 
+ }
+ 
+}
+
